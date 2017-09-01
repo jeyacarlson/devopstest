@@ -50,6 +50,16 @@ public class ConcatenatorStepdefs {
 		    String lExpectedConcatenatedResult = StringUtils.join(aTokens, "");
 		    Assert.assertEquals(lExpectedConcatenatedResult, lConcatenatedResult);		
 	}
+	
+	
+	@Given("^I have Threee Tokens (.*),  (.*) and (.*)$")
+	public void i_have_Threee_Tokens_Yes_No_and_Maybe(String pFirst, String pSecond, String pThird) throws Throwable {
+		aTokens = new ArrayList<String>();
+		aTokens.add(pFirst);
+		aTokens.add(pSecond);
+		aTokens.add(pThird);
+	}
+
 
 
 

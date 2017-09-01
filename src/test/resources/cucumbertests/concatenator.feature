@@ -16,3 +16,8 @@ Feature: Concatenate
     Given I have multiple Tokens 'Red, Blue, Green, Yellow, Orange, White'
     When I create a Concatenator
     Then the concatenate method should return the concatenated result
+    
+  Scenario: Concatenate Three Strings
+    Given I have Threee Tokens 'Yes',  'No' and 'Maybe'
+    When I create a Concatenator
+    Then the concatenate method should return the concatenated result
