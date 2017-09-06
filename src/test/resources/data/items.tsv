@@ -1,0 +1,11 @@
+json
+{"sku": "test123", "itemName": "test123Name", "description": "description example", "design": "the design1", "imagepath": "PathToFile", "imageurl": "urlexample.com", "price": "$123", "s3url": "urlexample.com", "metalType": "goldish"}
+{"sku": "test124", "itemName": "test124Name", "description": "description example", "design": "the design2", "imagepath": "PathToFile", "imageurl": "urlexample.com", "price": "$123", "s3url": "urlexample.com", "metalType": "goldish"}
+{"sku": "test125", "itemName": "test125Name", "description": "description example", "design": "the design3", "imagepath": "PathToFile", "imageurl": "urlexample.com", "price": "$123", "s3url": "urlexample.com", "metalType": "goldish"}
+{"sku": "test126", "itemName": "test126Name", "description": "description example", "design": "the design4", "imagepath": "PathToFile", "imageurl": "urlexample.com", "price": "$123", "s3url": "urlexample.com", "metalType": "goldish"}
+{"sku": "test127", "itemName": "test127Name", "description": "description example", "design": "the design5", "imagepath": "PathToFile", "imageurl": "urlexample.com", "price": "$123", "s3url": "urlexample.com", "metalType": "goldish"}
+{"sku": "test128", "itemName": "test128Name", "description": "description example", "design": "the design6", "imagepath": "PathToFile", "imageurl": "urlexample.com", "price": "$123", "s3url": "urlexample.com", "metalType": "goldish"}
+{"sku": "test129", "itemName": "test129Name", "description": "description example", "design": "the design7", "imagepath": "PathToFile", "imageurl": "urlexample.com", "price": "$123", "s3url": "urlexample.com", "metalType": "goldish"}
+{"sku": "test130", "itemName": "test130Name", "description": "description example", "design": "the design8", "imagepath": "PathToFile", "imageurl": "urlexample.com", "price": "$123", "s3url": "urlexample.com", "metalType": "goldish"}
+{"sku": "test131", "itemName": "test131Name", "description": "description example", "design": "the design9", "imagepath": "PathToFile", "imageurl": "urlexample.com", "price": "$123", "s3url": "urlexample.com", "metalType": "goldish"}
+{"sku": "test132", "itemName": "test132Name", "description": "description example", "design": "the design10", "imagepath": "PathToFile", "imageurl": "urlexample.com", "price": "$123", "s3url": "urlexample.com", "metalType": "goldish"}
